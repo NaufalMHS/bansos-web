@@ -6,7 +6,7 @@
           <tr>
             <th>Nama</th>
             <th>NIK</th>
-            <th>Detail</th>
+            <th>Details</th>
           </tr>
         </thead>
         <tbody>
